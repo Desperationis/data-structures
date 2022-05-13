@@ -72,6 +72,10 @@ do
 			;;
 		-c|--clean)
 			safeRemoveDir build
+			if [[ -e compile_commands.json ]]
+			then
+				rm compile_commands.json
+			fi
 			echo "Cleaned project"
 			exit 0
 			;;
