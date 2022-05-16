@@ -33,11 +33,11 @@ TEST(ArrayTest, Clear) {
 TEST(ArrayTest, Populate) {
 	Array<int, 8> arr;
 	for(int i = 0; i < 8; i++) {
-		arr[i] = 69;
+		arr[i] = 69 * i;
 	}
 
 	for(int i = 0; i < 8; i++) {
-		EXPECT_EQ(arr[i], 69);
+		EXPECT_EQ(arr[i], 69 * i);
 	}
 }
 
