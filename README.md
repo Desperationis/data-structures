@@ -1,6 +1,5 @@
-- Array
-- Dynamic Array
-- 2D Array
+- ~Array~
+- ~Dynamic Array~
 - String 
 - Linked List
 - Stack
