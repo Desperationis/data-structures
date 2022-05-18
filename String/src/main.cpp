@@ -95,14 +95,10 @@ TEST(StringTest, CopyChar) {
 
 TEST(StringTest, Empty) {
 	String t(nullptr);
-	//todo
-
+	EXPECT_EQ(t, "");
+	EXPECT_EQ(t.Length(), 0);
+	EXPECT_THROW(t[0], std::out_of_range);
 }
-
-
-
-
-
 
 int main(int argc, char** argv) {
 	testing::InitGoogleTest();
