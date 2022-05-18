@@ -1,6 +1,6 @@
 - ~Array~
 - ~Dynamic Array~
-- String 
+- ~String~
 - Linked List
 - Stack
 - Queue
