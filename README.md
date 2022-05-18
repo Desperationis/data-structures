@@ -7,7 +7,6 @@
 - Hash Table
 - Hash Set
 - Heap
-- Graph
 - Binary Tree
 - Binary Search Tree
 - Trie
