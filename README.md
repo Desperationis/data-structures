@@ -2,7 +2,7 @@
 - ~Dynamic Array~
 - ~String~
 - ~Linked List~
-- Stack
+- ~Stack~
 - Queue
 - Hash Table
 - Hash Set
