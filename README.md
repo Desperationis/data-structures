@@ -3,7 +3,6 @@
 - ~String~
 - ~Linked List~
 - ~Stack~
-- Queue
 - Hash Table
 - Hash Set
 - Heap
