@@ -4,7 +4,6 @@
 - ~Linked List~
 - ~Stack~
 - Hash Table
-- Hash Set
 - Heap
 - Binary Tree
 - Binary Search Tree
